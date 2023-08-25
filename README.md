@@ -1,6 +1,6 @@
 # School-Projects
-These are projects I did for classes in school.
+These are reports I did for classes in school using Data Science and Machine LEarning techniqies
 
-The professional status report was done in collaboration with another classmate.
+All reports were done in collaboration with other classmates.
 
 
